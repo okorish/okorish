@@ -8,7 +8,7 @@
 
 ### <div align="center">
 
-  <a href="https://pikabu.ru/tag/%D0%95%D1%80%D0%B6%D0%B0%D0%BD" target="_blank">
+  <a href="https://cs13.pikabu.ru/post_img/2023/06/12/10/1686589608223659623.webp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
   <a href="https://t.me/d_e_m_o_l_o_c" target="_blank">
