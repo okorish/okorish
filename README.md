@@ -4,7 +4,7 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-### <h1 align="center">Привет👋 Меня зовут Олег!</h1>
+### <h1 align="center">Hi 👋 My name is Oleg!</h1>
 
 ### <div align="center">
 
@@ -21,7 +21,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&" />
 </div>
 
-### <h3 align="left">👩‍💻 Обо мне</h3>
+### <h3 align="left">👩‍💻 About Me </h3>
  
 ### <p align="left">I am a beginner Frontend developer. My journey in IT started just two weeks ago. I am beginning to try myself in many directions, studying the Hypertext Markup Language (HTML) and the Cascading Style Sheets (CSS). In the future, I plan to start learning Python. My goal is to complete my studies by the end of February 2027. <br><br>
 My FRONT-END RoadMAP 2025<br><br>
