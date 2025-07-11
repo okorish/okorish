@@ -23,7 +23,7 @@
 
 ### <h3 align="left">👩‍💻 Обо мне</h3>
  
-### <p align="left">Я начинающий Frontend разработчик. Мой путь в it начался далёкие 2 недели назад. Я начинаю пробовать себя во многих направлениях, изучаю язык гипертекстовой разметки THML, язык стилей CSS. В будущей перспективе начать изучение Python. В мои планы входит закончить обучение до конца февраля 2025 года. <br><br>
+### <p align="left">I am a beginner Frontend developer. My journey in IT started just two weeks ago. I am beginning to try myself in many directions, studying the Hypertext Markup Language (HTML) and the Cascading Style Sheets (CSS). In the future, I plan to start learning Python. My goal is to complete my studies by the end of February 2027. <br><br>
 My FRONT-END RoadMAP 2025<br><br>
 1. HTML<br>
 2. CSS<br>
